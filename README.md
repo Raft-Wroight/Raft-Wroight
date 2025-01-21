@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raft-Wroight
 - 🤓 My real name is Raith Wright
-- 👀 I’m interested in art animation and 3d modling
+- 👀 I’m interested in art, animation, and 3d modling
 - 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on anything that I can make assets on
 - 📫 How to reach me is through this and spachey
